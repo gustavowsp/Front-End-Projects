@@ -6,7 +6,10 @@ body{
     overflow-x: hidden;
 }
 
-
+nav .nav-link{
+    color: rgb(88, 88, 88);
+    font-weight: 600;
+}
 
 
 
