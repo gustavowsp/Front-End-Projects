@@ -15,4 +15,13 @@ body{
     img#logo{
         width: 30%;
     }
+    body{
+        font-size: 1px;
+    }
+    header h2#title {
+        font-size: 1.8em;
+    }
+    #text-explain{
+        font-size: 0.8em;
+    }
 }
